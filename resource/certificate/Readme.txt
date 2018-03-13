@@ -1,0 +1,1 @@
+Certificate.p12's password:123456

@@ -1,0 +1,4 @@
+11:00:27.123 [main] INFO  com.xkeshi.iostesting.cashier.member.XKSMemberEntranceTest - HY_001用例执行开始
+11:00:46.280 [main] TRACE com.xkeshi.iostesting.cashier.member.XKSMemberEntranceTest - 进入会员模块
+11:00:51.598 [main] TRACE com.xkeshi.iostesting.cashier.member.XKSMemberEntranceTest - 查询会员查询按钮是否存在
+11:00:51.598 [main] INFO  com.xkeshi.iostesting.cashier.member.XKSMemberEntranceTest - HY_001用例执行完毕
